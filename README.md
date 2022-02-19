@@ -22,4 +22,4 @@
     
   ##
 
-![Snake animation](https://github.com/daianercruz/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/daianercruz/daianercruz/blob/output/github-contribution-grid-snake.svg)
