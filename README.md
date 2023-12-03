@@ -8,7 +8,9 @@
 
 <p>Estou em processo de transição para a área de desenvolvimento
 
-<P>Cursando Engenharia de Software - PUC Minas
+<P>Formada em Ciências da Computação 
+ 
+<P>Cursando Pós Engenharia de Software - PUC Minas
 
  
  ##
