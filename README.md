@@ -46,7 +46,7 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-daianeprc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daianeprc/)]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/daianeprc/))
+[![Linkedin](https://img.shields.io/badge/-daianeprc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daianeprc/)]([https://www.linkedin.com/in/daianeprc/](https://www.linkedin.com/in/daianeprc/))
 [![Gmail Badge](https://img.shields.io/badge/-dprczx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dprczx@gmail.com)](mailto:dprczx@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/daianercruz)
 
