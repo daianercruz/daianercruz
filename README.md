@@ -1,15 +1,5 @@
 
-<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" />
-
-## Olá, meu nome é <strong>Daiane!</strong>
-
-<p>Atualmente, exerço a função de Analista de Suporte Técnico Júnior
-
-<p>Estou em processo de transição para a área de desenvolvimento
-
-<P>Formada em Ciências da Computação 
- 
-<P>Cursando Pós Engenharia de Software - PUC Minas
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
  
  ##
@@ -25,30 +15,16 @@
 
   <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
+****
 
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,sass,figma,vscode,ps,ai,postgres,postman,java,spring,git)](https://skillicons.dev)
 
 
-**DevOps**
+##
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-<h3>Onde me encontrar</h3>
-
-
-[![Gmail Badge](https://img.shields.io/badge/-dprczx@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dprczx@gmail.com)](mailto:dprczx@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/daianercruz)
-
-  ##
+<p align="center">
+  <a href="https://www.linkedin.com/in/daianeprc/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
