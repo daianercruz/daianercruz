@@ -11,20 +11,4 @@
 </div>
   </div>
   
-  ##
-
-  <h3>Minhas Skills</h3>
-
-****
-
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,sass,figma,vscode,ps,ai,postgres,postman,java,spring,git)](https://skillicons.dev)
-
-
-##
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/daianeprc/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+ 
