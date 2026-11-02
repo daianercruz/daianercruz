@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Olá, eu sou a Daiane Cruz!</h1>
-  <h3>Python | Back-end | Software Engineering | AI</h3>
+  <h3>Python | Back-end Development | AI | Software Engineering</h3>
 </div>
 
 <br>
@@ -14,67 +14,49 @@
     <td width="70%">
       Sou Analista de Suporte Pleno, formada em Ciência da Computação e pós-graduada em Engenharia de Software.
       <br><br>
-      Tenho experiência na investigação e resolução de problemas em aplicações em produção, utilizando análise de logs, SQL, APIs e troubleshooting.
+      Minha experiência profissional envolve investigação de incidentes, troubleshooting de aplicações em produção, análise de logs, consultas SQL e integração de sistemas.
       <br><br>
-      Nos meus projetos pessoais, trabalho com Python, FastAPI, PostgreSQL e Angular, explorando desenvolvimento Back-end, integração de APIs, Inteligência Artificial e bancos de dados relacionais e de grafos.
+      Atualmente, desenvolvo projetos com Python, APIs, Inteligência Artificial e bancos de dados, explorando agentes de IA, Function Calling, sistemas de recomendação e modelagem de grafos.
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/daianercruz">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=daianercruz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daianercruz&layout=compact&langs_count=7&theme=midnight-purple" alt="Top Languages"/>
-  </a>
-</div>
-
-<br>
-
-<h2 align="center">Tech Stack</h2>
-
-<h3 align="center">Back-end & Data</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-</div>
-
-<h3 align="center">Front-end</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
-</div>
-
-<h3 align="center">Tools & Development</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</div>
+---
 
 <br>
 
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+</div>
+
 
 <br>
 
-
+---
 
 <div align="center">
   <picture>
@@ -86,13 +68,14 @@
 
 <br>
 
+---
 
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/daianeprc/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/daianercruz">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  
 </div>
+<br>
+
